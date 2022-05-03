@@ -2,7 +2,7 @@
 <html>
  <title>Hello Everyone! Welcome to my homepage! </title>
   <style>
-    body {
+    <body> {
       background-color: blue;
      	 }
 	 h1 {
@@ -73,5 +73,5 @@
 <h5> Below is an image of my boyfriend and I! </h5>
 <h6>Speaking of! Here is the link to my Instgram account: Feel free to follow me!</h6>
 <h7>While you are here, what is your name?</h7>
-
+ </body>
 </html>
