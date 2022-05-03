@@ -75,5 +75,12 @@
 <h6>Speaking of! Below is the link to my Instgram account! Feel free to follow me!</h6>
 <a href="https://www.instagram.com/em.jonesyy/">Visit Emilys Instagram!</a>
 <h7>While you are here, what is your name?</h7>
+ <div id="inputs">
+  <div> Tell me your name : <input id="name-one-input" /></div>
+   <button onclick="fillOutputs();">Done</button>
+  </div>
+  <div id="output">
+   The <span id="name-one-output"></span>
+  </div>
  </body>
 </html>
